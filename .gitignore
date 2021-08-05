@@ -2,3 +2,5 @@
 /package.json
 /package-lock.json
 /.env
+/accountBalances.txt
+/transactions.txt
